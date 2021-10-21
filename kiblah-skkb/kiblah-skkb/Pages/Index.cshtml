@@ -1,0 +1,630 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Laman Utama";
+}
+
+<!-- ======= hero Section ======= -->
+<section id="hero">
+    <div class="hero-container">
+        <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+            <ol id="hero-carousel-indicators" class="carousel-indicators"></ol>
+
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active" style="background-image: url(/assets/img/srikiblah_kotabharu.jpg); margin-top: 60px">
+                    <div class="carousel-container">
+                        <div class="container">
+                            <h2 class="animate__animated animate__fadeInDown">SRI KIBLAH KOTA BHARU</h2>
+                            <p class="animate__animated animate__fadeInUp">
+                                SELAMAT DATANG KE PORTAL SEKOLAH RENDAH
+                                ISLAM (SRI) KIBLAH KOTA BHARU (SKKB)
+                            </p>
+                            <a asp-page="/borang/borangpendaftaranmurid" class="btn-get-started scrollto animate__animated animate__fadeInUp">Daftar Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+            </a>
+
+            <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+            </a>
+
+        </div>
+    </div>
+</section><!-- End Hero Section -->
+
+<section data-aos="fade-up">
+    <div class="px-4 pt-5 text-center">
+        <img class="d-block mx-auto rounded-circle mb-4" src="~/assets/logo/LOGO.jpg" alt="" width="120" height="100">
+        <h1 class="h2 fw-bold">PENGENALAN SRI KIBLAH KOTA BHARU ( SKKB )</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">
+                SKKB ditubuhkan pada tahun 1993 hampir 27 tahun pengalamannya
+                telah menjana sistem pendidikan yang bersepadu dan holistik di peringkat
+                sekolah rendah dalam melahirkan jiil Al-Quran yang bermanhaj, cemerlang, berdaya saing global, glokal dan universal.
+                <br />
+                <br />
+                Misi SKKB ialah melahirkan generasi muttaqin yang bukan sahaja cemerlang akademik (KPM, tahfiz & Diniyah), tetapi bersahsiah unggul serta pencapaian yang seimbang duniawi dan ukhrawi.
+                <br />
+                <br />
+                Kini, SKKB telah melahirkan murid-murid yang telah mencapai kejayaan sama ada di peringkat negeri, kebangsaan mahupun antarabangsa dalam profesion kerjaya masing-masing (alumni).
+            </p>
+        </div>
+    </div>
+</section>
+
+<section data-aos="fade-up">
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 pt-3">
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src="~/assets/infra/depan/img1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+            </div>
+            <div class="col-lg-6">
+                <h3 class=" fw-bold lh-1 mb-3">KELEBIHAN MEMILIH SKKB</h3>
+                <p class="lead">
+                    <ul>
+                        <li style="text-align: justify;">
+                            Tenaga  Pengajar yang bertauliah, komited dan dedikasi mendidik
+                        </li>
+                        <li style="text-align: justify;">
+                            Sijil UPSR diiktiraf Kementerian Pendidikan Malaysia (KPM)
+                        </li>
+                        <li style="text-align: justify;">
+                            Sijil UPSRI & UPSRIP diiktiraf YAKIN, PERSIAP, YIK, MAIK dan setanding UPKK (KPM)
+                        </li>
+                        <li style="text-align: justify;">
+                            Melahirkan 2  orang 6A, 2 orang 5A, 1 orang 3A dan 6 orang 2A dalam UPSR daripada 34 calon (2018)
+                        </li>
+                        <li style="text-align: justify;">
+                            Melahirkan 1 orang murid 8A dalam UPSRIP (Sijil Agama peringkat negeri) – 2019
+                        </li>
+                        <li style="text-align: justify;">
+                            Melahirkan 19/53 (36%) orang murid 7A dalam UPSRI (Sijil Agama peringkat sekolah) – 2019
+                        </li>
+                        <li style="text-align: justify;">
+                            Berpeluang menyambung pengajian peringkat Pra-Madinah selepas UPSR. Sijil diiktiraf Universiti Islam Madinah
+                        </li>
+                        <li style="text-align: justify;">
+                            3 orang pelajar berjaya menyambung pengajian di Universiti Islam Madinah (2019)
+                        </li>
+                        <li style="text-align: justify;">
+                            Berpeluang melanjutkan pelajaran dengan Skim Tajaan Biasiswa (100%) & Dermasiswa (50%) peringkat sekolah menengah hingga ke peringkat universiti
+                        </li>
+                        <li style="text-align: justify;">
+                            Penglibatan & Pencapaian dalam Kosukan & Koakademik (futsal, memanah, badminton, tilawah & hafazan al-Quran, robotik, pidato bahasa Arab & bahasa Inggeris, dll) yang standard & diiktiraf:
+                            <br />
+                            a) Menjuarai futsal peringkat negeri (2019)
+                            <br />
+                            b) menjohani tilawah dan hafazan peringkat negeri (2018 & 2019)
+                            <br />
+                            c) tempat ketiga dalam sukan memanah dan pingpong peringkat negeri (2019)
+                            <br />
+                            d) tempat ke-4 dalam storytelling Bahasa Inggeris peringkat negeri (2019)
+                            <br />
+                            e) tempat ketiga dalam pidato Bahasa Arab peringkat negeri (2019) dan banyak lagi..
+                        </li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-aos="fade-up">
+    <div class="px-4 pt-3 text-center">
+        <h1 class="h3 fw-bold">SYARAT KEMASUKAN SKKB</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">
+                <ul>
+                    <li style="text-align: justify;">
+                        Warganegara Malaysia
+                    </li>
+                    <li style="text-align: justify;">
+                        Berumur 7 tahun bagi sesi pembelajaran darjah 1
+                    </li>
+                    <li style="text-align: justify;">
+                        Lelaki / Perempuan
+                    </li>
+                </ul>
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- ======= Team Section ======= -->
+<section id="team">
+    <div class="container" data-aos="fade-up">
+        <div class="section-header">
+            <h3>TENAGA PENGAJAR</h3>
+            <p>Tenaga pengajar kami sentiasa komited serta tekun dalam memberikan pendidikan komprehensif dan berkualiti</p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                    <img style="max-height:250px" src="~/assets/guru/afida.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>WAN NOR AFIDA BINTI ABDUL RAHMAN</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                    <img style="max-height:250px" src="~/assets/guru/atikah.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>NUR ATIKAH BINTI MOHD ADANAN</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                    <img style="max-height:250px" src="~/assets/guru/noriah.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>NORIAH BINTI ABDUL RASYID</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                    <img style="max-height:250px" src="~/assets/guru/zakiah.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>ZAKIAH BINTI YAACOB</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                    <img style="max-height:250px" src="~/assets/guru/ain.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>NURUL AIN BINTI OTHMAN</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                    <img style="max-height:250px" src="~/assets/guru/rezwan.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>REZWAN BIN MOHD MOHD ZAIN</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                    <img style="max-height:250px" src="~/assets/guru/athirah.png" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>SITI NUR ATHIRAH BINTI HASHIM</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Team Section -->
+<!-- ======= Aktiviti Section ======= -->
+<section id="about">
+    <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+            <h3>Aktiviti</h3>
+        </header>
+
+        <div class="row about-cols">
+
+            <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="about-col">
+                    <div class="img">
+                        <img style="max-height:300px; width:100%" src="~/assets/aktiviti/16072018/main.jpg" alt="" class="img-fluid">
+                        <div class="icon"><img src="~/assets/logo/LOGO.jpg" class="img-fluid rounded-circle" /></div>
+                    </div>
+                    <h2 class="title"><a asp-page="/skkb/aktiviti/16072018" data-bs-toggle="modal" data-bs-target="#exampleModal">Minggu Sains dan Matematik (SCIMATH)</a></h2>
+                    <div class="text-center mb-3">
+                        <span class="badge bg-info">16 Julai 2018</span>
+                    </div>
+                    <p>
+                        16-20 July 2018-SRI Kiblah Melaka telah menganjurkan Minggu Sains dan Matematik (SCIMATH).
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Aktiviti Section -->
+<!-- ======= Infra Section ======= -->
+<section id="portfolio" class="section-bg">
+    <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+            <h3 class="section-title">INFRASTRUKTUR</h3>
+        </header>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="~/assets/infra/depan/img1.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a> Bahagian Hadapan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="~/assets/infra/depan/img2.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a> Bahagian Hadapan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="~/assets/infra/depan/img3.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a> Bahagian Hadapan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="~/assets/infra/depan/img4.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Bahagian Hadapan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="~/assets/infra/depan/img5.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Bahagian Hadapan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img style="height:240px; width:100%" src="~/assets/infra/depan/laluan depan.jpg" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Laluan Depan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img style="height:240px; width:100%" src="~/assets/infra/depan/laluan depan2.jpg" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Laluan Depan</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img style="height:240px; width:100%" src="~/assets/infra/depan/laluan ke bilik.jpg" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Laluan Ke Bilik Darjah</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img style="width:100%" src="~/assets/infra/Kantin/img1.png" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Kantin</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img style="height:240px; width:100%" src="~/assets/infra/Kantin/img5.jpg" class="img-fluid" alt="">
+                    </figure>
+
+                    <div class="portfolio-info">
+                        <h4><a>Kantin</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Masjid/img1.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Masjid</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Masjid/img2.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Masjid</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Masjid/img3.png" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Masjid</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Masjid/img5.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Masjid</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/kelas/kelas1.png" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Kelas</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/kelas/kelas2.png" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Kelas</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/kelas/kelas3.png" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Kelas</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/Bilik Mesyuarat/m1.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Bilik Mesyuarat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/Bilik Mesyuarat/m9.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Bilik Mesyuarat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img src="~/assets/infra/Bilik Mesyuarat/m6.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Bilik Mesyuarat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Pejabat/img1.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Pejabat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Pejabat/img2.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Pejabat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Pejabat/img3.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Pejabat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <div class="portfolio-wrap">
+                        <figure>
+                            <img style="height:240px; width:100%" src="~/assets/infra/Pejabat/img4.jpg" class="img-fluid" alt="">
+                        </figure>
+
+                        <div class="portfolio-info">
+                            <h4><a>Pejabat</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Infra Section -->
+<!-- ======= Contact Section ======= -->
+<section style="background-color:#f2f2f2" id="contact" class="section-bg">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+            <h3>Hubungi Kami</h3>
+            <p>Untuk sebarang maklumat dan urusan, sila hubungi nombor seperti yang tertera di bawah</p>
+        </div>
+        <div>
+            <h1 class="text-center">Laman Ini Dalam Pembangunan</h1>
+        </div>
+    </div>
+</section><!-- End Contact Section -->
+
+<!-- ======= Our Clients Section ======= -->
+    <section style="margin-top:80px" id="clients">
+      <div class="container" data-aos="zoom-in">
+
+        <header class="section-header">
+          <h3>Bersekutu</h3>
+        </header>
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/bersekutu.png" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/jpk logo.png" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/logo baru kpm.png" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/logo_en.png" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/maik logo-edit-02-02-2017.jpg" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/mais.jpg" style="height:60px" class="img-fluid" alt=""></div>
+            <div class="swiper-slide text-center"><img src="assets/bersekutu/skill.png" style="height:60px" class="img-fluid" alt=""></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Our Clients Section -->
+

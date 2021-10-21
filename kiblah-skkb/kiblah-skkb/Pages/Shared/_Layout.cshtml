@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sri Kiblah Kota Bharu</title>
+     <link rel="icon" type="image/x-icon" href="/assets/logo/LOGO.jpg">
+
+      <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+ <link href=~/lib/animate.css/animate.css rel="stylesheet" />
+    <link href=/lib/aos/aos.css rel="stylesheet" />
+    <link href=/lib/bootstrap/dist/css/bootstrap.css rel="stylesheet" />
+    <link href=~/lib/bootstrap-icons/font/bootstrap-icons.css rel="stylesheet" />
+    <link href=/lib/glightbox/dist/css/glightbox.css rel="stylesheet" />
+    <link href=~/lib/swiper/swiper-bundle.min.css rel="stylesheet" />
+  <link href=/lib/Swiper/swiper-bundle.min.css rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href=/css/skkb.css rel="stylesheet">
+
+</head>
+<body  style="font-family: 'Ubuntu', sans-serif; color:black">
+    
+     <!-- ======= Header ======= -->
+    <header style="background-color: #ad1457 " id="header" class="fixed-top d-flex align-items-center ">
+        <div class="container-fluid">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-xl-11 d-flex align-items-center justify-content-between">
+                    @*<h1 class="logo"><a href="index.html">KIBLAH</a></h1>*@
+                    <!-- Uncomment below if you prefer to use an image logo -->
+                    <a style="font-size: 16px; color: #ffeb3b" asp-page="/Index" class="logo"><img style="height:95px" src="~/assets/logo/LOGO.jpg" alt="" class="img-fluid rounded-circle">&nbsp; SRI KIBLAH KOTA BHARU</a>
+
+                    <nav id="navbar" class="navbar">
+                        <ul>
+                            <li><a class="nav-link scrollto active" asp-page="/Index">Utama</a></li>
+                            <li class="dropdown">
+                                <a href="#"><span>Informasi</span> <i class="bi bi-chevron-down"></i></a>
+                                <ul>
+                                    <li><a asp-page="/informasi/perutusan">Perutusan Guru Besar</a></li>
+                                    <li><a asp-page="/informasi/falsafah">Falsafah, Visi Dan Misi</a></li>
+                                    <li><a asp-page="/informasi/piagam">Piagam Pelanggan</a></li>
+                                    <li><a asp-page="/informasi/agenda">Agenda Dan Matlamat</a></li>
+                                    <li><a asp-page="/Informasi/Sejarah">Sejarah</a></li>
+                                    <li><a asp-page="/Informasi/Carta">Carta Organisasi</a></li>
+                                    <li><a asp-page="/Informasi/pengurusan">Pengurusan</a></li>
+                                    <li><a asp-page="/Informasi/sijil">Sijil Perakuan</a></li>
+                                    <li><a asp-page="/Informasi/logo">Logo</a></li>
+                                    <li><a asp-page="/Informasi/nasyid">Lagu Rasmi</a></li>
+                                    <li><a asp-page="/Informasi/uniform">Uniform</a></li>
+                                    <li><a asp-page="/Informasi/yuran">Yuran</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#"><span>Portal</span> <i class="bi bi-chevron-down"></i></a>
+                                <ul>
+                                    <li class="dropdown">
+                                        <a><span>Kiblah Group</span> <i class="bi bi-chevron-right"></i></a>
+                                        <ul>
+                                            <li><a href="https://kiblahgroup.com">Kumpulan Kiblah</a></li>
+                                            <li><a href="https://sk.kiblahgroup.com">Sekolah Kiblah</a></li>
+                                            <li><a href="http://mtk.kiblahgroup.com">Maahad Tahfiz Kiblah</a></li>
+                                            <li><a href="http://kpkk.kiblahgroup.com">Kolej Professional Kemahiran</a></li>
+                                            <li><a href="https://skm.kiblahgroup.com">SRI Kiblah Melaka</a></li>
+                                            <li><a href="https://skkb.kiblahgroup.com">SRI Kiblah Kota Bharu</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Pengurusan</a></li>
+                                    <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Guru</a></li>
+                                    <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Murid</a></li>
+                                    <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Ibu Bapa</a></li>
+                                    <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Alumni</a></li>
+                                </ul>
+                            </li>
+
+                            @*<li><a class="nav-link scrollto" href="https://localhost:44337/#about">Aktiviti</a></li>
+                                <li><a class="nav-link scrollto" href="https://localhost:44337/srimelaka/#portfolio">Infra</a></li>
+                                <li><a class="nav-link scrollto" href="https://localhost:44337/#contact">Hubungi</a></li>*@
+
+                            <li><a class="nav-link scrollto" href="https://skkb.kiblahgroup.com/#about">Aktiviti</a></li>
+                            <li><a class="nav-link scrollto" href="https://kiblahgroup.com/#portfolio">Infra</a></li>
+                            <li><a class="nav-link scrollto" href="https://kiblahgroup.com/#contact">Hubungi</a></li>
+                            <li><a  class="nav-link scrollto" asp-page="/borang/borangpendaftaranmurid">Pendaftaran</a></li>
+                        </ul>
+                        <i class="bi bi-list mobile-nav-toggle"></i>
+                    </nav><!-- .navbar -->
+                </div>
+            </div>
+
+        </div>
+    </header><!-- End Header -->
+
+     <div id="main">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- ======= Footer ======= -->
+    <footer style="margin-top:25px" id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 footer-info">
+                          <h3 style="color: #29b6f6">SRI KIBLAH KOTA BHARU</h3>
+                        <p>
+                            ILMU | AMAL | TAQWA
+                        </p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h4>Pautan</h4>
+                        <ul>
+                            <li><i class="bi bi-chevron-right"></i> <a href="#">Utama</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="#">Cookies</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="#">Terma Dan Syarat</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="#">Polisi Privasi</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-contact">
+                        <h4>Alamat Kami</h4>
+                           <p>
+                            Sekolah Rendah Islam (SRI) KIBLAH CAWANGAN KOTA BHARU
+                            691, Jalan Telipot, <br>
+                            Paya Senang, 15150 Kota Bharu, Kelantan
+                            <strong>Telefon : </strong>09-7471703 ( Pejabat )<br>
+                                                                             <strong>Email: <a href="mailto:srikiblahmelaka@gmail.com"><strong></strong></a></strong>
+</p>
+
+                        <div class="social-links">
+                            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Hakcipta Terpelihara <strong>Kumpulan Pendidikan Kiblah</strong>
+            </div>
+            <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
+                -->
+                Tarikh Akhir Kemaskini: <a>20/10/2021 05:10 pm</a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+   <div id="preloader"></div>   
+
+  <script src="~/lib/aos/aos.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/glightbox/dist/js/glightbox.min.js"></script>
+    <script src="~/lib/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/lib/purecounter/purecounter.js"></script>
+    <script src="~/lib/Swiper/swiper-bundle.min.js"></script>
+    <script src="~/lib/waypoints/noframework.waypoints.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div style="background-color:#ffd800; color:black" class="modal-header">
+                <h5 class="modal-title fw-bold" id="exampleModalLabel">INFO</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div style="color:crimson; font-weight:bold" class="modal-body">
+                Maaf, laman ini sedang dalam pembangunan.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Tutup</button>
+            </div>
+        </div>
+    </div>
+</div>

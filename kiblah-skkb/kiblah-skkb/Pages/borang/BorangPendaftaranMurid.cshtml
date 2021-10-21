@@ -1,0 +1,135 @@
+﻿@page
+@model kiblah_skkb.Pages.borang.BorangPendaftaranMuridModel
+@{
+    ViewData["Title"] = "Borang Pendaftaran";
+}
+
+<div style="margin-top:100px" class="container">
+    <h1 class="fw-bold">Borang Pendaftaran</h1>
+    <header class="d-flex align-items-center">
+        <a class="d-flex align-items-center text-dark text-decoration-none">
+            <img class="rounded-circle img-fluid" style="width:80px" src="~/assets/logo/LOGO.jpg" />
+            <span class="fs-4 fw-bold small">&nbsp; SRI KIBLAH KOTA BHARU (SKKB)</span>
+        </a>
+    </header>
+    <hr />
+    @{
+        if (ViewData["error"] != null) {
+            <div style="background-color:crimson; color:white; font-size:14px; font-weight:bold" class="alert alert-danger border-0" role="alert">
+                <i class="bi bi-exclamation-circle-fill"></i> @ViewData["error"]
+            </div>
+        }
+    }
+
+    <div class="row">
+        <div class="col-md-7">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <p>
+                    <h3 class="fw-bold">1) Maklumat Pelajar</h3>
+                </p>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NamaPelajar" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NamaPelajar" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NamaPelajar" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.KadPengenalan" class="control-label"></label>
+                    <input asp-for="Pendaftaran.KadPengenalan" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.KadPengenalan" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.Umur" class="control-label"></label>
+                    <input asp-for="Pendaftaran.Umur" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.Umur" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.Email" class="control-label"></label>
+                    <input asp-for="Pendaftaran.Email" class="form-control text-lowercase" />
+                    <span asp-validation-for="Pendaftaran.Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NoTelefon" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NoTelefon" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NoTelefon" class="text-danger"></span>
+                </div>
+                <p style="padding-top:10px">
+                    <h3 class="fw-bold">2) Maklumat Ibu Bapa / Penjaga</h3>
+                </p>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NamaBapa" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NamaBapa" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NamaBapa" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NamaIbu" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NamaIbu" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NamaIbu" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.EmailBapa" class="control-label"></label>
+                    <input asp-for="Pendaftaran.EmailBapa" class="form-control text-lowercase" />
+                    <span asp-validation-for="Pendaftaran.EmailBapa" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.EmailIbu" class="control-label"></label>
+                    <input asp-for="Pendaftaran.EmailIbu" class="form-control text-lowercase" />
+                    <span asp-validation-for="Pendaftaran.EmailIbu" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NoTelefonBapa" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NoTelefonBapa" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NoTelefonBapa" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.NoTelefonIbu" class="control-label"></label>
+                    <input asp-for="Pendaftaran.NoTelefonIbu" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.NoTelefonIbu" class="text-danger"></span>
+                </div>
+                <p style="padding-top:10px">
+                    <h3 class="fw-bold">3) Lain-lain</h3>
+                </p>
+                <div hidden class="form-group">
+                    <label asp-for="Pendaftaran.KursusDiPohon" class="control-label"></label>
+                    <input asp-for="Pendaftaran.KursusDiPohon" value="N/A" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.KursusDiPohon" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.SumberMaklumat" class="control-label"></label>
+                    <select asp-for="Pendaftaran.SumberMaklumat" class="form-control">
+                        <option value="">-- Sumber Maklumat --</option>
+                        <option value="Rakan/Saudara/Jiran">Rakan/Saudara/Jiran</option>
+                        <option value="Facebook">Facebook</option>
+                        <option value="Website">Website</option>
+                        <option value="Pameran">Pameran</option>
+                        <option value="Billboard">Billboard</option>
+                        <option value="SMS">SMS</option>
+                        <option value="Media Cetak">Media Cetak</option>
+                    </select>
+                    <span asp-validation-for="Pendaftaran.SumberMaklumat" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pendaftaran.MemilihKblah" class="control-label"></label>
+                    <textarea asp-for="Pendaftaran.MemilihKblah" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="Pendaftaran.MemilihKblah" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <input type="submit" value="Daftar" class="btn btn-primary w-25" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+    $("input").change(function () {
+        $(this).val($(this).val().toUpperCase());
+    })
+    </script>
+}
+

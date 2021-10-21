@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = kiblah_skkb
+build_property.RootNamespace = kiblah_skkb
+build_property.ProjectDir = E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/aktiviti/16072018.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWt0aXZpdGlcMTYwNzIwMTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/borang/BorangPendaftaranMurid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm9yYW5nXEJvcmFuZ1BlbmRhZnRhcmFuTXVyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Agenda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXEFnZW5kYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Carta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXENhcnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Falsafah.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXEZhbHNhZmFoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Logo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXExvZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Nasyid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXE5hc3lpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Pengurusan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFBlbmd1cnVzYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Perutusan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFBlcnV0dXNhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Piagam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFBpYWdhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Sejarah.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFNlamFyYWguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Sijil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFNpamlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Uniform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFVuaWZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/informasi/Yuran.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYXNpXFl1cmFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Kiblah Projects/kiblah-skkb/kiblah-skkb/kiblah-skkb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dcj85clr8l
