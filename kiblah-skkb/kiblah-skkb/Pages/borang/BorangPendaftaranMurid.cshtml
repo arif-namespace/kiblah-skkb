@@ -38,6 +38,28 @@
                     <input asp-for="Pendaftaran.KadPengenalan" class="form-control" />
                     <span asp-validation-for="Pendaftaran.KadPengenalan" class="text-danger"></span>
                 </div>
+                  <div class="form-group mb-4">
+                    <label asp-for="Pendaftaran.Alamat" class="control-label"></label>
+                    <input asp-for="Pendaftaran.Alamat" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.Alamat" class="text-danger"></span>
+                </div>
+                 <div class="form-group mb-4">
+                    <label asp-for="Pendaftaran.Poskod" class="control-label"></label>
+                    <input asp-for="Pendaftaran.Poskod" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.Poskod" class="text-danger"></span>
+                </div>
+                 <div class="form-group mb-4">
+                    <label asp-for="Pendaftaran.Bandar" class="control-label"></label>
+                    <input asp-for="Pendaftaran.Bandar" class="form-control" />
+                    <span asp-validation-for="Pendaftaran.Bandar" class="text-danger"></span>
+                </div>
+                 <div class="form-group mb-4">
+                    <label asp-for="Pendaftaran.Negeri" class="control-label"></label>
+                    <select asp-for="Pendaftaran.Negeri" asp-items="Model.NegeriList" class="form-control">
+                        <option value="">-- Pilih Negeri --</option>
+                    </select>
+                    <span asp-validation-for="Pendaftaran.Negeri" class="text-danger"></span>
+                </div>
                 <div class="form-group">
                     <label asp-for="Pendaftaran.Umur" class="control-label"></label>
                     <input asp-for="Pendaftaran.Umur" class="form-control" />

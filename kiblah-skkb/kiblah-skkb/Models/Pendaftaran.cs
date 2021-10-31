@@ -21,6 +21,24 @@ namespace kiblah.Models
         [Display(Name = "Kad Pengenalan / No Passort (Luar Negara ) : ")]
         public string? KadPengenalan { get; set; }
 
+        [Required(ErrorMessage = "Masukkan Alamat Anda")]
+        [Display(Name = "Alamat")]
+        public string? Alamat { get; set; }
+
+        [Required(ErrorMessage = "Masukkan Poskod")]
+        [Display(Name = "Poskod")]
+        [MaxLength(7)]
+        [RegularExpression("^[0-9]*$", ErrorMessage = "Hanya Digit Sahaja DiBenarkan")]
+        public string? Poskod { get; set; }
+
+        [Required(ErrorMessage = "Masukkan Bandar")]
+        [Display(Name = "Bandar")]
+        public string? Bandar { get; set; }
+
+        [Required(ErrorMessage = "Pilih Negeri")]
+        [Display(Name = "Negeri")]
+        public string? Negeri { get; set; }
+
         [Required(ErrorMessage ="Sila Masukkan Umur Pada Tahun 2022")]
         [Display(Name = "Umur Pada Tahun 2022 : ")]
         [MaxLength(2)]

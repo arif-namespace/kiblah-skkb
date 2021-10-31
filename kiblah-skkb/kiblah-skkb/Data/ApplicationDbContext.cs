@@ -1,4 +1,5 @@
 ﻿using kiblah.Models;
+using kiblah_skkb.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,6 +11,7 @@ namespace kiblah_skkb.Data {
         }
 
         public DbSet<Pendaftaran> Pendaftarans { get; set; }
+        public DbSet<Negeri> Negeri { get; set; }
     }
     
 }

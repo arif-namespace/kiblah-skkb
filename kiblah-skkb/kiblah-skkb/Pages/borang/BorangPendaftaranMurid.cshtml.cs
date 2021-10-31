@@ -1,7 +1,9 @@
 using kiblah.Models;
 using kiblah_skkb.Data;
+using kiblah_skkb.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace kiblah_skkb.Pages.borang
@@ -14,17 +16,25 @@ namespace kiblah_skkb.Pages.borang
             _context = context;
         }
 
-        public void OnGet() {
-        }
+        public SelectList NegeriList { get; set; }
 
+        public async Task<IActionResult> OnGet() {
+            NegeriList = new SelectList(_context.Negeri, nameof(Negeri.NamaNegeri), nameof(Negeri.NamaNegeri));
+            return Page();
+        }
+      
         [BindProperty]
         public Pendaftaran Pendaftaran { get; set; }
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync() {
             if (!ModelState.IsValid) {
+                NegeriList = new SelectList(_context.Negeri, nameof(Negeri.NamaNegeri), nameof(Negeri.NamaNegeri));
+
                 return Page();
             }
+
+            NegeriList = new SelectList(_context.Negeri, nameof(Negeri.NamaNegeri), nameof(Negeri.NamaNegeri));
 
             var validateRecords = await _context.Pendaftarans.AnyAsync(a => a.KadPengenalan == Pendaftaran.KadPengenalan);
 

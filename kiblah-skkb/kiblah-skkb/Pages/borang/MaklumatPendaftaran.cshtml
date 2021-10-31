@@ -1,0 +1,160 @@
+﻿@page
+@model kiblah_skkb.Pages.borang.MaklumatPendaftaranModel
+@{
+    ViewData["Title"] = "Maklumat Pendaftaran";
+}
+<div style="margin-top:100px" class="container">
+    <div style="background-color: #4caf50; color: white; font-weight: bold; font-size: 14px " class="alert alert-success border-0" role="alert">
+        Pendaftaran Anda Telah Berjaya. Pihak Kami Akan Menghubungi Anda Untuk Urusan Selanjutnya
+    </div>
+    <h1 class="fw-bold">Maklumat Pendaftaran</h1>
+
+    <div class="small">
+        <hr />
+        <p>
+            <h3 style="color:#2b62d4" class="fw-bold">1) Maklumat Pelajar</h3>
+        </p>
+        <div class="form-group">
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Kod)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Kod)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Pusat)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Pusat)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NamaPelajar)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NamaPelajar)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.KadPengenalan)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.KadPengenalan)
+                </dd>
+                 <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Alamat)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Alamat)
+                </dd>
+                 <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Poskod)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Poskod)
+                </dd>
+                 <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Bandar)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Bandar)
+                </dd>
+                 <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Negeri)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Negeri)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Umur)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.Umur)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.Email)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Model.Pendaftaran.Email
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NoTelefon)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NoTelefon)
+                </dd>
+            </dl>
+        </div>
+        <p>
+            <h3 style="color:#2b62d4" class="fw-bold">2) Maklumat Ibu / Bapa / Penjaga</h3>
+        </p>
+        <div class="form-group">
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NamaBapa)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NamaBapa)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.EmailBapa)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Model.Pendaftaran.EmailBapa
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NoTelefonBapa)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NoTelefonBapa)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NamaIbu)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NamaIbu)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.EmailIbu)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Model.Pendaftaran.EmailIbu
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.NoTelefonIbu)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.NoTelefonIbu)
+                </dd>
+            </dl>
+        </div>
+        <p>
+            <h3 style="color:#2b62d4" class="fw-bold">3) Lain-lain Maklumat</h3>
+        </p>
+        <div class="form-group">
+            <dl class="row">
+                @{
+                    if (Model.Pendaftaran.Kod == "KPKK") {
+                        <dt class="col-sm-4">
+                            @Html.DisplayNameFor(model => model.Pendaftaran.KursusDiPohon)
+                        </dt>
+                        <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                            @Html.DisplayFor(model => model.Pendaftaran.KursusDiPohon)
+                        </dd>
+                    }
+                }
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.SumberMaklumat)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Html.DisplayFor(model => model.Pendaftaran.SumberMaklumat)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Pendaftaran.MemilihKblah)
+                </dt>
+                <dd style="color:#b90e81; font-weight:bold" class="col-sm-6">
+                    @Model.Pendaftaran.MemilihKblah
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
