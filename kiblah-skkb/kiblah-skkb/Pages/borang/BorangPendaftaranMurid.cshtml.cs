@@ -50,6 +50,7 @@ namespace kiblah_skkb.Pages.borang
             Pendaftaran.DaftarPada = DateTime.Now;
             Pendaftaran.DaftarOleh = Pendaftaran.KadPengenalan;
             Pendaftaran.IsActive = true;
+            Pendaftaran.Tag = "SKKB";
 
             _context.Pendaftarans.Add(Pendaftaran);
             await _context.SaveChangesAsync();

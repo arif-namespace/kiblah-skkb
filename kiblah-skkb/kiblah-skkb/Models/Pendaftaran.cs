@@ -91,8 +91,8 @@ namespace kiblah.Models
         [Display(Name = "Sumber Maklumat Mengenai Kumpulan KIBLAH : ")]
         public string? SumberMaklumat { get; set; }
 
-        [Required(ErrorMessage ="Maklumat Ini DiPerlukan")]
+        [Required(ErrorMessage = "Maklumat Ini DiPerlukan")]
         [Display(Name = "Saya Memilih KIBLAH Kerana..")]
-        public string? MemilihKblah { get; set; }
+        public string? MemilihKiblah { get; set; }
     }
 }
