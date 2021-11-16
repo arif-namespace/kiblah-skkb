@@ -3,17 +3,14 @@ E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\appsettings.json
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\libman.json
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\kiblah-skkb.dll
-E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\kiblah-skkb.deps.json
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\kiblah-skkb.runtimeconfig.json
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\kiblah-skkb.pdb
-E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Humanizer.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Design.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
@@ -42,3 +39,4 @@ E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Release\net6.0\PubTmp\Out\kiblah-skkb.deps.json

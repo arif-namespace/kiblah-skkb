@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dIKGlnyJiwNmlTqlm8ZVUOGEK8Y7WfWHJuVTtHUq6Uk=",
+  "Hash": "uy3HT+TbzpyXRBavcrrsRHnV2KD1pBcwlyxTF92aTBs=",
   "Source": "kiblah-skkb",
   "BasePath": "_content/kiblah-skkb",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,7 +1034,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0-rc.2.21480.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\devel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\obj\\Release\\net6.0\\scopedcss\\bundle\\kiblah-skkb.styles.css",
@@ -1887,12 +1887,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\bersekutu\\skill.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\afida.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\10ZAKIAH.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/afida.png",
+      "RelativePath": "assets/guru/10ZAKIAH.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\afida.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\10ZAKIAH.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\ain.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\11AIN.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/ain.png",
+      "RelativePath": "assets/guru/11AIN.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\ain.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\11AIN.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\amin.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\12Rezwan.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/amin.png",
+      "RelativePath": "assets/guru/12Rezwan.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\amin.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\12Rezwan.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\athirah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\13Athirah.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/athirah.png",
+      "RelativePath": "assets/guru/13Athirah.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\athirah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\13Athirah.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\atikah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\14Pembantu Tadbir (Operasi).png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/atikah.png",
+      "RelativePath": "assets/guru/14Pembantu Tadbir (Operasi).png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\atikah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\14Pembantu Tadbir (Operasi).png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\azmira.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\15Pembantu Tadbir (Kewangan).png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/azmira.png",
+      "RelativePath": "assets/guru/15Pembantu Tadbir (Kewangan).png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\azmira.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\15Pembantu Tadbir (Kewangan).png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\fatihah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\16Amin (Tukang).png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/fatihah.png",
+      "RelativePath": "assets/guru/16Amin (Tukang).png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\fatihah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\16Amin (Tukang).png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\GB.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\1GB.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/GB.png",
+      "RelativePath": "assets/guru/1GB.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\GB.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\1GB.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\hidayah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\2AZMIRA.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/hidayah.png",
+      "RelativePath": "assets/guru/2AZMIRA.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\hidayah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\2AZMIRA.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\maher.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\3HIDAYAH.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/maher.png",
+      "RelativePath": "assets/guru/3HIDAYAH.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\maher.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\3HIDAYAH.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\noriah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\4ROSLIZA.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/noriah.png",
+      "RelativePath": "assets/guru/4ROSLIZA.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\noriah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\4ROSLIZA.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\pembantu tadbir kewangan.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\5FATHIAH.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/pembantu tadbir kewangan.png",
+      "RelativePath": "assets/guru/5FATHIAH.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\pembantu tadbir kewangan.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\5FATHIAH.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\pembantu tadbir.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\6Maher.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/pembantu tadbir.png",
+      "RelativePath": "assets/guru/6Maher.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\pembantu tadbir.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\6Maher.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\rezwan.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\7AFIDA.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/rezwan.png",
+      "RelativePath": "assets/guru/7AFIDA.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\rezwan.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\7AFIDA.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\rosliza.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\8ATIKAH.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/rosliza.png",
+      "RelativePath": "assets/guru/8ATIKAH.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\rosliza.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\8ATIKAH.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\zakiah.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\guru\\9NORIAH.png",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/guru/zakiah.png",
+      "RelativePath": "assets/guru/9NORIAH.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,7 +2156,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\guru\\zakiah.png"
+      "OriginalItemSpec": "wwwroot\\assets\\guru\\9NORIAH.png"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\master layout.png",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/img/master layout.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\master layout.png"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\mata pelajaran.png",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/img/mata pelajaran.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\mata pelajaran.png"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\pelan.png",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/img/pelan.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pelan.png"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\sejarah.png",
@@ -2174,6 +2225,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\sejarah.png"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\skkb.png",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/img/skkb.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\skkb.png"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\img\\srikiblah_kotabharu.jpg",
@@ -2244,12 +2312,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\infra\\Bilik Mesyuarat\\m9.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\img1.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Kantin.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/img1.jpg",
+      "RelativePath": "assets/infra/Kantin.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2326,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\img1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Kantin.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\img2.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Kawasa Parking Luas.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/img2.jpg",
+      "RelativePath": "assets/infra/Kawasa Parking Luas.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,143 +2343,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\img2.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\img3.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/img3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\img3.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\img4.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/img4.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\img4.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\img5.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/img5.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\img5.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\laluan depan.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/laluan depan.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\laluan depan.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\laluan depan2.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/laluan depan2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\laluan depan2.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\depan\\laluan ke bilik.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/depan/laluan ke bilik.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\depan\\laluan ke bilik.jpg"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Kantin\\img1.png",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Kantin/img1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Kantin\\img1.png"
-    },
-    {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Kantin\\img5.jpg",
-      "SourceId": "kiblah-skkb",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
-      "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Kantin/img5.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Kantin\\img5.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Kawasa Parking Luas.jpg"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\kelas\\kelas1.png",
@@ -2465,12 +2397,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\infra\\kelas\\kelas3.png"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\img1.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Laluan Bilik Darjah.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/img1.jpg",
+      "RelativePath": "assets/infra/Laluan Bilik Darjah.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2479,15 +2411,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\img1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Laluan Bilik Darjah.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\img2.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Luar Masjid.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/img2.jpg",
+      "RelativePath": "assets/infra/Luar Masjid.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2496,15 +2428,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\img2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Luar Masjid.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\IMG-20201216-WA0031.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Mini Library.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/IMG-20201216-WA0031.jpg",
+      "RelativePath": "assets/infra/Mini Library.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2513,15 +2445,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\IMG-20201216-WA0031.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Mini Library.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\IMG-20201216-WA0034.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Padang Bola.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/IMG-20201216-WA0034.jpg",
+      "RelativePath": "assets/infra/Padang Bola.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2530,15 +2462,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\IMG-20201216-WA0034.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Padang Bola.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\img3.png",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pavilion serbaguna.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/img3.png",
+      "RelativePath": "assets/infra/Pavilion serbaguna.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2547,15 +2479,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\img3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pavilion serbaguna.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Masjid\\img5.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pejabat.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Masjid/img5.jpg",
+      "RelativePath": "assets/infra/Pejabat.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2564,15 +2496,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Masjid\\img5.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pejabat.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pejabat\\img1.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pintu Masuk 1.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Pejabat/img1.jpg",
+      "RelativePath": "assets/infra/Pintu Masuk 1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2581,15 +2513,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pejabat\\img1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pintu Masuk 1.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pejabat\\img2.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pondok Ilmu (Gazebo).jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Pejabat/img2.jpg",
+      "RelativePath": "assets/infra/Pondok Ilmu (Gazebo).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2598,15 +2530,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pejabat\\img2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pondok Ilmu (Gazebo).jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pejabat\\img3.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Sekitar depan sekolah.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Pejabat/img3.jpg",
+      "RelativePath": "assets/infra/Sekitar depan sekolah.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2615,15 +2547,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pejabat\\img3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\Sekitar depan sekolah.jpg"
     },
     {
-      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\Pejabat\\img4.jpg",
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\infra\\sekitar kwsn depan sekolah.jpg",
       "SourceId": "kiblah-skkb",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
       "BasePath": "_content/kiblah-skkb",
-      "RelativePath": "assets/infra/Pejabat/img4.jpg",
+      "RelativePath": "assets/infra/sekitar kwsn depan sekolah.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2632,7 +2564,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\infra\\Pejabat\\img4.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\infra\\sekitar kwsn depan sekolah.jpg"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\logo\\LOGO.jpg",
