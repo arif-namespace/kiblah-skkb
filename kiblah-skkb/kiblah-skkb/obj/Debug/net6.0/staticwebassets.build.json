@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o2MMG5oghBlNo5AAytIOyToF0hHapQfAgprWUzvz1aY=",
+  "Hash": "F57BzeHveJHN4awCFkyHIHA6SF+kXMnV2oXMiVkpgQQ=",
   "Source": "kiblah-skkb",
   "BasePath": "_content/kiblah-skkb",
   "Mode": "Default",
@@ -2973,6 +2973,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\sijil\\maik1.jpg"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\slider\\promoskkb.jpeg",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/slider/promoskkb.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\slider\\promoskkb.jpeg"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\slider\\Silibus Pengajian SKKB.jpg",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/slider/Silibus Pengajian SKKB.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\slider\\Silibus Pengajian SKKB.jpg"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\slider\\slider1.png",
