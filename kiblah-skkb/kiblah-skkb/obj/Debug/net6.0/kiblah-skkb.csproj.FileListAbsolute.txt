@@ -63,3 +63,8 @@ E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Debug\net6.0\ref\kibl
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Debug\net6.0\kiblah-skkb.pdb
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Debug\net6.0\kiblah-skkb.genruntimeconfig.cache
 E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\obj\Debug\net6.0\kiblah-skkb.csproj.AssemblyReference.cache
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Kiblah Projects\kiblah-skkb\kiblah-skkb\kiblah-skkb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

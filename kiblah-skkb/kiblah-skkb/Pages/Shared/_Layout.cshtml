@@ -76,15 +76,21 @@
                                     <li><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">Alumni</a></li>
                                 </ul>
                             </li>
-
-                            @*<li><a class="nav-link scrollto" href="https://localhost:44337/#about">Aktiviti</a></li>
-                                <li><a class="nav-link scrollto" href="https://localhost:44337/srimelaka/#portfolio">Infra</a></li>
-                                <li><a class="nav-link scrollto" href="https://localhost:44337/#contact">Hubungi</a></li>*@
-
-                            <li><a class="nav-link scrollto" href="https://skkb.kiblahgroup.com/#about">Aktiviti</a></li>
+                           
+                              @{
+                              <environment include="Staging,Production">
+                               <li><a class="nav-link scrollto" href="https://skkb.kiblahgroup.com/#about">Aktiviti</a></li>
                             <li><a class="nav-link scrollto" href="https://skkb.kiblahgroup.com/#portfolio">Infra</a></li>
                             <li><a class="nav-link scrollto" href="https://skkb.kiblahgroup.com/#contact">Hubungi</a></li>
-                            <li><a  class="nav-link scrollto" asp-page="/borang/borangpendaftaranmurid">Pendaftaran</a></li>
+                            <li><a href="https://skkb.kiblahgroup.com/borang/BorangPendaftaranMurid" class="nav-link scrollto" >Pendaftaran</a></li>
+                               </environment>
+                                 <environment include="Development">
+                                  <li><a class="nav-link scrollto" href="https://localhost:7188/#about">Aktiviti</a></li>
+                                <li><a class="nav-link scrollto" href="https://localhost:7188/sekolah/#portfolio">Infra</a></li>
+                                <li><a class="nav-link scrollto" href="https://localhost:7188/#contact">Hubungi</a></li>
+                                 <li><a asp-page="/borang/borangPendaftaranMurid" class="nav-link scrollto" >Pendaftaran</a></li>
+                               </environment>
+                          }
                         </ul>
                         <i class="bi bi-list mobile-nav-toggle"></i>
                     </nav><!-- .navbar -->
@@ -156,7 +162,18 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
                 -->
-                Tarikh Akhir Kemaskini: <a>8/12/2021 10:45 am</a>
+                Tarikh Akhir Kemaskini: <a>26/01/2022 10:45 pm</a>
+                <br />
+                <strong class="small text-primary">Environment Version: @System.Environment.Version</strong>
+                <br />
+                @{
+                     <environment include="Development">
+                     <strong class="small">Mode: Development</strong>
+                               </environment>
+                               <environment include="Production">
+                     <strong class="small text-danger">Mode: Release</strong>
+                               </environment>
+                }
             </div>
         </div>
     </footer><!-- End Footer -->
@@ -199,7 +216,7 @@
     </div>
 </div>
 
-@*<script type="text/javascript">  
+<script type="text/javascript">  
 var message = "Function Disabled!";  
 function clickIE4() {  
 if (event.button == 2) {  
@@ -224,4 +241,3 @@ document.onmousedown = clickIE4;
 }  
 document.oncontextmenu = new Function("return false")  
 </script>  
-*@

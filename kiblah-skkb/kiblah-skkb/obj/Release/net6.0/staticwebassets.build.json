@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k0bRQeaWqwrkafUWWxBw/I650zd+iFULrg3urw3ihJE=",
+  "Hash": "HgdeX9cEptXXVmV+Gx6IQRVrAlwA4PH1tT72i01kDpI=",
   "Source": "kiblah-skkb",
   "BasePath": "_content/kiblah-skkb",
   "Mode": "Default",
@@ -2973,6 +2973,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\sijil\\maik1.jpg"
+    },
+    {
+      "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\slider\\news1.jpg",
+      "SourceId": "kiblah-skkb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\",
+      "BasePath": "_content/kiblah-skkb",
+      "RelativePath": "assets/slider/news1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\slider\\news1.jpg"
     },
     {
       "Identity": "E:\\Kiblah Projects\\kiblah-skkb\\kiblah-skkb\\kiblah-skkb\\wwwroot\\assets\\slider\\promoskkb.jpeg",
